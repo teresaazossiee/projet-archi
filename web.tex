@@ -1,0 +1,43 @@
+\documentclass[12pt,a4paper]{article} % classe article, taille 12, papier A4
+\usepackage{fontspec} % permet de gérer la police
+
+\usepackage{graphicx} % gère les images
+\usepackage{array} % gère les tableaux
+\usepackage{hyperref} % gère les liens
+\usepackage{csquotes} % gère les citations et les guillemets
+
+\usepackage{polyglossia} % gère l'aspect multilingue des documents
+\setmainlanguage{french} % sélection de la langue principale du document
+
+\usepackage[citestyle=verbose]{biblatex} % appel de biblatex, de nombreuses autres options disponibles
+\bibliography{nom_du_fichier_bib} % appel du fichier .bib sans l'extension
+
+% emplacement pour d'autres packages
+
+\title{Mon titre} % le titre du document
+\author{Moi} % son auteur
+\date{La date} % la date
+
+
+%% début du document
+
+\begin{document} % début du corps du texte
+	
+	\maketitle % affiche le titre, l'auteur et la date
+	\tableofcontents % affiche une table des matières correspondant aux sections du document
+	
+	\section{Introduction}
+	
+	\section{Contenu}
+	
+	\subsection{Analyse 1}
+	
+	\subsection{Analyse 2}
+	
+	\section{Conclusion}
+	
+	
+	%% bibliographie
+	\printbibliography
+	
+\end{document}
