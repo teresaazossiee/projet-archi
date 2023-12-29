@@ -1,11 +1,15 @@
 \xpginauxfiletrue 
 \selectlanguage *{french}
 \contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
-\contentsline {section}{\numberline {2}\textbf {HISTOIRE DU WEB 2.0 : ORIGINE ET DÉFINITION}}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}\textbf {ORIGINE DU WEB2.0}}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {2}\textbf {HISTOIRE DU WEB 2.0 : ORIGINE ET DÉFINITION}}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}\textbf {ORIGINE DU WEB2.0}}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}\textbf {DÉFINITION DU WEB2.0}}{3}{subsection.2.2}%
-\contentsline {section}{\numberline {3}\textbf {LA DIFFÉRENCE ENTRE LE WEB 1.O, LE WEB 2.0 ET LE WEB 3.0}}{3}{section.3}%
-\contentsline {subsection}{\numberline {3.1}\textbf {LE WEB 1.0 : Le Web Statique}}{3}{subsection.3.1}%
+\contentsline {section}{\numberline {3}\textbf {LA DIFFÉRENCE ENTRE LE WEB 1.O, LE WEB 2.0 ET LE WEB 3.0}}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}\textbf {LE WEB 1.0 : Le Web Statique}}{4}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}\textbf {LE WEB 2.0 : L’ère De L'interaction Et De La Participation}}{4}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}\textbf {LE WEB 3.0 : Vers l'Internet Sémantique et Contextuel}}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}\textbf {LES CARACTÉRISTIQUES DU WEB 2.0 ET SON UTILITÉ AU SEIN DES ENTREPRISES }}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}\textbf {LES CARACTÉRISTIQUES DU WEB 2.0}}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}\textbf {L’UTILITÉ DU WEB 2.0 DANS UNE ENTREPRISE }}{7}{subsection.4.2}%
+\contentsline {section}{\numberline {5}\textbf {CONCLUSION}}{9}{section.5}%
 \xpginauxfilefalse 
