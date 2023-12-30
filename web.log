@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.26)  29 DEC 2023 22:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.30)  30 DEC 2023 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,29 +680,7 @@ Overfull \hbox (8.0843pt too wide) in paragraph at lines 65--65
 []\TU/lmr/bx/n/14.4 LE WEB 3.0 : Vers l’Internet Sémantique et Contex-
  []
 
-[5] [6]
-! Misplaced alignment tab character &.
-l.87 ...création de communautés virtuelles (Boyd &
-                                                   Ellison, 2007).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[7]
-! Misplaced alignment tab character &.
-l.108 ...ur autorité dans leur domaine (Halligan &
-                                                   Shah, 2010).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[8]
+[5] [6] [7] [8]
 
 LaTeX Warning: Empty bibliography on input line 122.
 
@@ -711,15 +689,8 @@ LaTeX Warning: Empty bibliography on input line 122.
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
-
-
-Package rerunfilecheck Warning: File `web.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `web.out':
-(rerunfilecheck)             Before: E0B8CD795A1EC9367E348A4FDB30F04C;3054
-(rerunfilecheck)             After:  3536E076ADFEB50E61D61EB81C6AE416;3060.
+Package rerunfilecheck Info: File `web.out' has not changed.
+(rerunfilecheck)             Checksum: 3536E076ADFEB50E61D61EB81C6AE416;3060.
 Package logreq Info: Writing requests to 'web.run.xml'.
 \openout1 = `web.run.xml'.
 
