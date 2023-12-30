@@ -16,5 +16,146 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Anderson2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a5ef2c988eb50a049dd4ec8176f589d4}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5ef2c988eb50a049dd4ec8176f589d4}
+      \strng{fullhash}{a5ef2c988eb50a049dd4ec8176f589d4}
+      \strng{bibnamehash}{a5ef2c988eb50a049dd4ec8176f589d4}
+      \strng{authorbibnamehash}{a5ef2c988eb50a049dd4ec8176f589d4}
+      \strng{authornamehash}{a5ef2c988eb50a049dd4ec8176f589d4}
+      \strng{authorfullhash}{a5ef2c988eb50a049dd4ec8176f589d4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JISC Technology and Standards Watch}
+      \field{title}{What is Web 2.0? Ideas, technologies and implications for education}
+      \field{year}{2007}
+    \endentry
+    \entry{McAfee2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=00c50c0a44597347642883ea39a79e19}{%
+           family={McAfee},
+           familyi={M\bibinitperiod},
+           given={Andrew.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{00c50c0a44597347642883ea39a79e19}
+      \strng{fullhash}{00c50c0a44597347642883ea39a79e19}
+      \strng{bibnamehash}{00c50c0a44597347642883ea39a79e19}
+      \strng{authorbibnamehash}{00c50c0a44597347642883ea39a79e19}
+      \strng{authornamehash}{00c50c0a44597347642883ea39a79e19}
+      \strng{authorfullhash}{00c50c0a44597347642883ea39a79e19}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Business Review Press}
+      \field{title}{Enterprise 2.0: New Collaborative Tools for Your Organization's Toughest Challenges}
+      \field{year}{2009}
+    \endentry
+    \entry{OReilly2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8e9258f2810b1957096f4242713aa2d3}{%
+           family={O'Reilly},
+           familyi={O\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e9258f2810b1957096f4242713aa2d3}
+      \strng{fullhash}{8e9258f2810b1957096f4242713aa2d3}
+      \strng{bibnamehash}{8e9258f2810b1957096f4242713aa2d3}
+      \strng{authorbibnamehash}{8e9258f2810b1957096f4242713aa2d3}
+      \strng{authornamehash}{8e9258f2810b1957096f4242713aa2d3}
+      \strng{authorfullhash}{8e9258f2810b1957096f4242713aa2d3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{O'Reilly Media}
+      \field{title}{What Is Web 2.0: Design Patterns and Business Models for the Next Generation of Software}
+      \field{year}{2005}
+    \endentry
+    \entry{Shirky2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ffbeb3da0446a9b06897cc8cce20aadf}{%
+           family={Shirky},
+           familyi={S\bibinitperiod},
+           given={Clay},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffbeb3da0446a9b06897cc8cce20aadf}
+      \strng{fullhash}{ffbeb3da0446a9b06897cc8cce20aadf}
+      \strng{bibnamehash}{ffbeb3da0446a9b06897cc8cce20aadf}
+      \strng{authorbibnamehash}{ffbeb3da0446a9b06897cc8cce20aadf}
+      \strng{authornamehash}{ffbeb3da0446a9b06897cc8cce20aadf}
+      \strng{authorfullhash}{ffbeb3da0446a9b06897cc8cce20aadf}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Penguin Books}
+      \field{title}{Here Comes Everybody: The Power of Organizing Without Organizations}
+      \field{year}{2008}
+    \endentry
+    \entry{Tapscott2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=73f6d11b42536dfd598560c86939477f}{%
+           family={Tapscott},
+           familyi={T\bibinitperiod},
+           given={Don},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c4692c5369fbb8332c391a6c34dbfd6d}{%
+           family={Williams.},
+           familyi={W\bibinitperiod},
+           given={Anthony\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5256cdd8cfb93bf0ca9300d980956ff}
+      \strng{fullhash}{d5256cdd8cfb93bf0ca9300d980956ff}
+      \strng{bibnamehash}{d5256cdd8cfb93bf0ca9300d980956ff}
+      \strng{authorbibnamehash}{d5256cdd8cfb93bf0ca9300d980956ff}
+      \strng{authornamehash}{d5256cdd8cfb93bf0ca9300d980956ff}
+      \strng{authorfullhash}{d5256cdd8cfb93bf0ca9300d980956ff}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Portfolio}
+      \field{title}{Wikinomics: How Mass Collaboration Changes Everything}
+      \field{year}{2008}
+    \endentry
+    \entry{BernersLee1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e73f67c71a50d784e364e34633f3770}{%
+           family={Berners-Lee},
+           familyi={\bibinithyphendelim L\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e73f67c71a50d784e364e34633f3770}
+      \strng{fullhash}{1e73f67c71a50d784e364e34633f3770}
+      \strng{bibnamehash}{1e73f67c71a50d784e364e34633f3770}
+      \strng{authorbibnamehash}{1e73f67c71a50d784e364e34633f3770}
+      \strng{authornamehash}{1e73f67c71a50d784e364e34633f3770}
+      \strng{authorfullhash}{1e73f67c71a50d784e364e34633f3770}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web}
+      \field{year}{1999}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

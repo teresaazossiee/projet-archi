@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.30)  30 DEC 2023 22:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.30)  30 DEC 2023 23:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,28 +680,64 @@ Overfull \hbox (8.0843pt too wide) in paragraph at lines 65--65
 []\TU/lmr/bx/n/14.4 LE WEB 3.0 : Vers l’Internet Sémantique et Contex-
  []
 
-[5] [6] [7] [8]
-
-LaTeX Warning: Empty bibliography on input line 122.
-
-[9] [10] (web.aux)
+[5] [6] [7] [8] [9]
+Missing character: There is no  in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no  in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+Missing character: There is no ​ in font [lmromancaps10-regular]:mapping=tex-te
+xt;!
+[10] [11] (web.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `web.out' has not changed.
-(rerunfilecheck)             Checksum: 3536E076ADFEB50E61D61EB81C6AE416;3060.
+(rerunfilecheck)             Checksum: C93E7E716D93D7743C476EAC69562D54;3177.
+
+Package biblatex Warning: Please rerun LaTeX.
+
 Package logreq Info: Writing requests to 'web.run.xml'.
 \openout1 = `web.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19601 strings out of 409625
- 401142 string characters out of 5774374
+ 19832 strings out of 409625
+ 406278 string characters out of 5774374
  1932109 words of memory out of 5000000
- 41520 multiletter control sequences out of 15000+600000
- 562190 words of font info for 63 fonts, out of 8000000 for 9000
+ 41749 multiletter control sequences out of 15000+600000
+ 562198 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,8n,93p,1659b,3958s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,8n,93p,1659b,5024s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on web.pdf (10 pages).
+Output written on web.pdf (11 pages).
